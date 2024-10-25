@@ -14,7 +14,7 @@
     <br>
   </samp>
 </p>
-<p align="center"><img src="https://github.com/avijit0022/IPO-Insights/blob/main/images/ipo-concept-ipo-is-initial-public-offering-company-go-public-stock-market-investment-new-stock-businessman-trader-trading-stock-ipo-vector-illustration_476325-1363.jpg"></p>
+<p align="center"><img src="https://github.com/avijit0022/IPO-Insights/blob/main/images/ipo_img.jpg"></p>
 <!-- About Section -->
 
 ## About The Page
