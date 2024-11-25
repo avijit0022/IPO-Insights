@@ -3,7 +3,8 @@ _*All the values are in INR._
 
 | Company | Kostak Rate | Subject to Sauda | GMP(%)| Listing Gain | Deviation |
 |---------|-------------|------------------|-----|--------------|-----------|
-|Enviro Infra Engineers| | |25|-|-|
+|C2C Advanced Systems NSE SME | | |108|-|-|
+|Enviro Infra Engineers| | |35|-|-|
 |NTPC Green| | |0|-|-|
 |Zinka Logistics| | |0|2.89|2.89|
 |Niva Bupa| | |0|5.59|5.59|
